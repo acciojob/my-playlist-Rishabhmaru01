@@ -34,6 +34,11 @@ li {
   margin: 10px auto;
   width: 550px;
 }
+a {
+  text-decoration: none;
+	color: black;
+}
+
 
 p {
   padding-left: 20px;
